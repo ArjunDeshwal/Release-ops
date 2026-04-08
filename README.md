@@ -171,3 +171,4 @@ export ENV_URL="https://your-space.hf.space"
 python3 inference.py
 ```
 # ReleaseOps_OpenEnv
+# refresh
